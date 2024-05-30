@@ -59,3 +59,5 @@ joined as (
 )
 
 select * from joined
+
+booopp boop test
